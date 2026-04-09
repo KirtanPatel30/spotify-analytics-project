@@ -1,0 +1,36 @@
+{
+  "start_rows": 114000,
+  "issues_fixed": [
+    "Dropped unnamed index column",
+    "Removed 24259 duplicate track_ids",
+    "Removed 1 rows with null critical fields",
+    "Removed 141 songs longer than 15 minutes"
+  ],
+  "end_rows": 89599,
+  "rows_removed": 24401,
+  "columns": [
+    "track_id",
+    "artists",
+    "album_name",
+    "track_name",
+    "popularity",
+    "duration_ms",
+    "explicit",
+    "danceability",
+    "energy",
+    "key",
+    "loudness",
+    "mode",
+    "speechiness",
+    "acousticness",
+    "instrumentalness",
+    "liveness",
+    "valence",
+    "tempo",
+    "time_signature",
+    "track_genre",
+    "duration_min",
+    "is_hit"
+  ],
+  "timestamp": "2026-04-09T11:47:15.306073"
+}
