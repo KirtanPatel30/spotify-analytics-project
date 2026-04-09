@@ -218,10 +218,4 @@ python dashboard/dashboard.py                # Dashboard → http://127.0.0.1:80
 
 ---
 
-## 📄 License
 
-This project is open source under the [MIT License](LICENSE).
-
----
-
-*Built as a portfolio project covering Data Engineering, Data Analytics and Data Science.*
